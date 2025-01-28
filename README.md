@@ -1,1 +1,1 @@
-Thanks to Hossein Ahmadi for her help in publishing the source code
+Thanks to Hossein Ahmadi for his help in publishing the source code
